@@ -77372,7 +77372,6 @@
 0.0.0.0 s2.socialannex.com
 0.0.0.0 s2.tribl.io
 0.0.0.0 s2.video.doubleclick.net
-0.0.0.0 s2.youtube.com
 0.0.0.0 s20.cnzz.com
 0.0.0.0 s20.optvdo.com
 0.0.0.0 s2027422842.m.en25.com
