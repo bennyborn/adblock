@@ -1,13 +1,13 @@
-js.adscale.de
-de-gmtdmp.mookie1.com
-dmp.theadex.com
-cdn.emetriq.de
-ups.xplosion.de
-tt.onthe.io
-s0.2mdn.net
-imagesrv.adition.com
-s400.mxcdn.net
-ads.pubmatic.com
-delivery-europe-west-1.openx.net
-eus.rubiconproject.com
-tracking.m6r.eu
+0.0.0.0 ads.pubmatic.com
+0.0.0.0 cdn.emetriq.de
+0.0.0.0 de-gmtdmp.mookie1.com
+0.0.0.0 delivery-europe-west-1.openx.net
+0.0.0.0 dmp.theadex.com
+0.0.0.0 eus.rubiconproject.com
+0.0.0.0 imagesrv.adition.com
+0.0.0.0 js.adscale.de
+0.0.0.0 s0.2mdn.net
+0.0.0.0 s400.mxcdn.net
+0.0.0.0 tracking.m6r.eu
+0.0.0.0 tt.onthe.io
+0.0.0.0 ups.xplosion.de
